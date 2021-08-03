@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "vuetify-todo",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
